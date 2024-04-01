@@ -1,8 +1,8 @@
-# Week -2-code-challenge
+# Code-Challenge-2
 
 #### 2024/03/30
 
-#### By *Joy Kweyu Ayieko*
+#### By *Lemuel Vincent Njuguna*
 
 ## Description
 
@@ -21,20 +21,14 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/KweyuJ/week-2-code-challenge
+Git clone https://github.com/Lemmes33/Code-Challenge-2
 
 ```
-
-# Live Link
-[Git](gh-pages link)
-
 ## Technologies used
-HTML
 Javascript
 
 ## Support and contact details
-github.com/KweyuJ
-
+https://github.com/Lemmes33
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2024.
